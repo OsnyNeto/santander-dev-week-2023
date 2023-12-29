@@ -1,0 +1,35 @@
+{
+
+  "name": "Osny Neto",
+  "account": {
+
+    "number": "123836-6",
+    "agency": "0001",
+    "balance": 9500.06,
+    "limit": 1000.00
+  },
+  "features": [
+    {
+
+      "icon": "URL",
+      "description": "Descrição da feature"
+    }
+  ],
+
+  "card":
+    {
+
+      "number": "xxxx xxxx xxxx 0123",
+      "limit": 23000.00
+    }
+  ,
+
+
+  "news": [
+    {
+
+      "icon": "URL",
+      "description": "Descrição da Novidade"
+    }
+  ]
+}

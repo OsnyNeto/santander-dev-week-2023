@@ -42,6 +42,14 @@ public class User {
         this.account = account;
     }
 
+    public Card getCard() {
+        return card;
+    }
+
+    public void setCard(Card card) {
+        this.card = card;
+    }
+
     public List<Feature> getFeatures() {
         return features;
     }
